@@ -1,0 +1,17 @@
+{
+  "name": "fa-viber",
+  "version": "1.0.0",
+  "description": "viber icon for font-awesome",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/maxivak/fa-viber",
+    "type": "git"
+  },
+
+  "author": "Max Ivak <maxivak@gmail.com>",
+  "license": "MIT",
+
+  "dependencies": {
+    "font-awesome": "4.7.0"
+  }
+}
